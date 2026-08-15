@@ -37,12 +37,3 @@ streamlit run app.py
 ```
 
 The first script downloads the official UCI dataset through `ucimlrepo`, creates session-level features, and generates train/test CSV files.
-
-## GitHub
-Upload this entire folder as a repository. Do not upload generated model binaries if repository size is an issue; the training script recreates them.
-
-## Suggested repository title
-`customer-conversion-clickstream-ml`
-
-## Source
-UCI Machine Learning Repository, Clickstream Data for Online Shopping, DOI 10.24432/C5QK7X.
